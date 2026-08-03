@@ -1,0 +1,8 @@
+opencv-python>=4.8,<5
+mediapipe>=0.10.33,<0.11
+pyautogui==0.9.54
+screeninfo==0.8.1
+Pillow>=10,<13
+pyobjc-framework-AVFoundation>=10.3; platform_system == "Darwin"
+pyobjc-framework-ApplicationServices>=10.3; platform_system == "Darwin"
+pyobjc-framework-Quartz>=10.3; platform_system == "Darwin"
